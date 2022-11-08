@@ -1,9 +1,5 @@
-# PyDracula - Modern GUI PySide6 / PyQt6
+# OcU
 # 
-
-> ## :gift: **//// DONATE ////**
-> ## 🔗 Donate (Gumroad): https://gum.co/mHsRC
-> This interface is free for any use, but if you are going to use it commercially, consider helping to maintain this project and others with a donation by Gumroado at the link above. This helps to keep this and other projects active.
 
 > **Warning**: this project was created using PySide6 and Python 3.9, using previous versions can cause compatibility problems.
 
@@ -11,9 +7,6 @@
 Presentation and tutorial video with the main functions of the user interface.
 > 🔗 https://youtu.be/9DnaHg4M_AM
 
-# Multiple Themes
-![PyDracula_Default_Dark](https://user-images.githubusercontent.com/60605512/112993874-0b647700-9140-11eb-8670-61322d70dbe3.png)
-![PyDracula_Light](https://user-images.githubusercontent.com/60605512/112993918-18816600-9140-11eb-837c-e7a7c3d2b05e.png)
 
 # High DPI
 > Qt Widgets is an old technology and does not have a good support for high DPI settings, making these images look distorted when your system has DPI applied above 100%.
